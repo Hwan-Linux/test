@@ -11,3 +11,49 @@ d
 d
 d
 = serializers.DateField()
+asd
+Falsed
+Falsedf
+assertfa
+sa
+d
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+ = serializers.SerializerMethodField()
+
+def get_sa
+d
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+(self, obj):
+    
